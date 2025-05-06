@@ -1,4 +1,4 @@
-# 📚 Documentation Repository
+# 📚 My Documentations
 
 Welcome to my personal documentation repository! This repo contains concise, topic-based notes and guides on various computer science and software engineering concepts. It's intended as a helpful resource for myself and others who might benefit from organized, easy-to-read docs.
 
