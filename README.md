@@ -4,9 +4,9 @@ Welcome to my personal documentation repository! This repo contains concise, top
 
 ## 📂 Topics Covered
 
-### 🔧 GitHub
-- [How to Delete Commits](./GitHub/delete_commits.md)
-- [Understanding Verified Commits](./GitHub/verified_commits.md)
+### 🔧 GitHub & Git
+- [How to Delete Commits in GitHub](./GitHub/delete_commits.md)
+- [How to Make Verified Commits on GitHub](./GitHub/verified_commits.md)
 
 ## 📌 Purpose
 This repository is meant to:
