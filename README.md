@@ -5,8 +5,10 @@ Welcome to my personal documentation repository! This repo contains concise, top
 ## 📂 Topics Covered
 
 ### 🔧 GitHub & Git
-- [How to Delete Commits in GitHub](./GitHub/delete_commits.md)
-- [How to Make Verified Commits on GitHub](./GitHub/verified_commits.md)
+
+- [How to Upload Your Files to GitHub](https://github.com/MdMobid/Docs/blob/main/Github/upload_to_github.md)
+- [How to Delete Commits in GitHub](https://github.com/MdMobid/Docs/blob/main/Github/delete_commits.md)
+- [How to Make Verified Commits on GitHub](https://github.com/MdMobid/Docs/blob/main/Github/verified_commits.md)
 
 ## 📌 Purpose
 This repository is meant to:
